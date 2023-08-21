@@ -46,7 +46,7 @@
       <div class="col input-group mb-3">
         {{-- <label class="form-label">Brasão</label> --}}
         <span class="input-group-text" id="basic-addon1">Brasão</span>
-        <input type="file" class="form-control"  name="Brasao" id="Brasao"  value="{{$municipio->Brasao}">
+        <input type="file" class="form-control"  name="Brasao" id="Brasao"  value="{{$municipio->Brasao}}">
     </div>
     </div>
       <div class="input-group mb-3">  
